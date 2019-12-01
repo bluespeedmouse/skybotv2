@@ -1,6 +1,8 @@
 # skybotv2
 README, and eventually other resources for SkyBot 2. 
 
+ALL COMMANDS/CALLS ARE CASE-SENSITIVE.
+
 COMMANDS
 ?skybot - Tells you about the origins of the bot. Will eventually include project status.
 hi/Hi - triggers a greeting from the bot.
