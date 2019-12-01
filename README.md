@@ -10,3 +10,4 @@ hi/Hi - triggers a greeting from the bot.
 fricking normies - REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 ping - Pongs back to you.
 ?sbhelp - Links to the repo.
+?ver - Displays current version. May not always be accurate.
