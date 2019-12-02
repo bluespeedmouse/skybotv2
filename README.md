@@ -1,6 +1,8 @@
 # skybotv2
 README, and eventually other resources for SkyBot 2. 
 
+test
+
 Current version: 2.2.2-12012019
 
 ALL COMMANDS/CALLS ARE CASE-SENSITIVE.
